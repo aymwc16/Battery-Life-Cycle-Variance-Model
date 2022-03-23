@@ -1,0 +1,10 @@
+#ignore data folder
+Data/
+
+#ignore Matlab files
+*.asv
+**/.DS_Store
+
+#ignore jupyter notebook files
+.ipynb_checkpoints/
+__pycache__/
